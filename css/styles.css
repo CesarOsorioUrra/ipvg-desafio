@@ -1,0 +1,14 @@
+*{
+	font-family: arial;
+}
+
+nav{
+	background-color: #192048;
+	color: white;
+	width: 100%;
+	height: 100px;
+	display:flex;
+	justify-content:space-between;
+	padding: 20px;
+}
+/*nav es un elemento en bloque, ocupa el 100% del ancho*/
